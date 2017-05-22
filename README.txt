@@ -1,0 +1,1 @@
+This repo contains a variety of different coding projects generated during my graduate and undergraduate research assitantships.  This codes is mostly written in Python but also includes C++ and Mathematica.
